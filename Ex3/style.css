@@ -1,0 +1,27 @@
+input{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.bi-trash3 {
+    display: inline;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li{
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    border-radius: 10%;
+    background-color: white;
+    width: 50%;
+}
+div.col-6{
+    background-color: #eae6e6;
+}
