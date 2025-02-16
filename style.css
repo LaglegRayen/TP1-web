@@ -1,7 +1,9 @@
-li{
-    color: white;
-    font-size: large;
+a{
+    color: #000;
+    text-decoration: none;
+
 }
+
 .list-group-item{
     
     border: 1px solid #ddd;

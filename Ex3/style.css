@@ -6,22 +6,23 @@ input{
     box-sizing: border-box;
 }
 .bi-trash3 {
-    display: inline;
+    color:black;
+    cursor: pointer;
+
 }
 
 
 ul{
     list-style-type: none;
     padding: 0;
-    margin: 0;
+    margin: 10px;
 }
-li{
+#element{
     padding: 10px;
-    border-bottom: 1px solid #ccc;
-    border-radius: 10%;
-    background-color: white;
-    width: 50%;
+    margin: 10px;
+    width: 30%;
 }
+
 div.col-6{
     background-color: #eae6e6;
 }

@@ -1,4 +1,4 @@
-text = document.querySelector("p");
+text = document.querySelector("#test");
 document.querySelector("#couleur").addEventListener("input",function(){
     text.style.color = this.value;
 })

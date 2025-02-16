@@ -1,0 +1,15 @@
+input{
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+
+}
+tr {
+    width: 100%;
+}
+td {
+    width: 30%;
+}
+#test{
+    height: 60px;
+}

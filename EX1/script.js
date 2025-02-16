@@ -18,7 +18,7 @@ document.querySelector("#reset").addEventListener("click",function(){
 function jouer(n, randomNumber){
     while (n > 0){
         x = prompt("ecriver le nombre");
-        if(x==randomNumber){alert("vous avez touve le nombre");break;}
+        if(x==randomNumber){alert("vous avez trouve le nombre");break;}
         n--;
         }
 }

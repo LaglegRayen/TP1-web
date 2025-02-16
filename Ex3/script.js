@@ -2,7 +2,7 @@ document.querySelector("#button").addEventListener("click", function() {
     n = document.querySelector("#name").value;
     c = document.querySelector("#content").value;
     element = n +": "+ c+" <i class='bi bi-trash3 '></i>";
-    document.querySelector("#list").innerHTML += "<li>"+element+"</li>";
+    document.querySelector("#list").innerHTML += "<li class = 'list-group-item list-group-item-action list-group-item-dark' id = 'element'>"+element+"</li>";
 
 });
 
